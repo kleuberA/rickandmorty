@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.infosPersonagem div + div{
+    margin-left: 10px;
+}
